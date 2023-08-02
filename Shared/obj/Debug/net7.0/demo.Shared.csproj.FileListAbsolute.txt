@@ -1,0 +1,12 @@
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/bin/Debug/net7.0/demo.Shared.deps.json
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/bin/Debug/net7.0/demo.Shared.dll
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/bin/Debug/net7.0/demo.Shared.pdb
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.csproj.AssemblyReference.cache
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.AssemblyInfoInputs.cache
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.AssemblyInfo.cs
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.csproj.CoreCompileInputs.cache
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.dll
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/refint/demo.Shared.dll
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/demo.Shared.pdb
+/Users/moisesrodriguez/Code/Codurance/AcademyFinalProject/demo/Shared/obj/Debug/net7.0/ref/demo.Shared.dll
